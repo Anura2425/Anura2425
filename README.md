@@ -1,13 +1,14 @@
-🙋‍♂️ I am Gavin McClure-Coleman, a Computer Science student at Gonzaga University. I am currently pursuing my Bachelor in Computer Science and Computational Thinking and am on track to graduate in 2028.
+🙋‍♂️ I am Gavin McClure-Coleman, a Computer Science student at Gonzaga University. I am currently pursuing my Bachelor's in Computer Science and Computational Thinking and am on track to graduate in 2028.
 
-👨‍💻 I’m especially interested in cybersecurity and have found myself intrigued by the offensive security side of it, diving into all kinds of CTFs, and learning as much as possible about penetration testing.
+👨‍💻 I’m especially interested in cybersecurity and have found myself intrigued by both offensive and defensive aspects of the field! Recently I have been most interested in penetration testing and learning about malware analysis!
 
-🌱 I’m currently learning how to use:
+🌱 I’m currently learning how to use the languages:
+
 - C++
 - Python
 
 📫 You can reach me at:
-- My Email: gmcclurecoleman@gmail.com
+- My Personal Email: gmcclurecoleman@gmail.com
 - My School Email: gmcclure-coleman@zagmail.gonzaga.edu
 - My Phone Number: 425-941-4481
  
