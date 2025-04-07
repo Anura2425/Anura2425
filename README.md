@@ -4,6 +4,7 @@
 
 🌱 I’m currently learning how to use the languages:
 
+- Rust
 - C
 - C++
 - Python
